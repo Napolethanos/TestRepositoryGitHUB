@@ -16,6 +16,7 @@
         private void NewMethod()
         {
             //Metodo aggiunto da Natan
+            int cm = 0;
         }
 
     }
