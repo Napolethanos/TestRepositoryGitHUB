@@ -12,6 +12,13 @@
 
             //Commento di Natan
         }
+
+        private void NewMethod()
+        {
+            //Metodo aggiunto da Natan
+        }
+
+
         private void MetodoAnsh()
         {
             // Metodo di ansh
