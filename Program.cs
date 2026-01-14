@@ -9,6 +9,8 @@
             //ANCHE IO
             // CIAO
             int a = 10;
+
+            //Commento di Natan
         }
     }
 }
