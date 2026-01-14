@@ -12,5 +12,11 @@
 
             //Commento di Natan
         }
+        private void MetodoAnsh()
+        {
+            // Metodo di ansh
+            int cm = 150;
+        }
+
     }
 }
