@@ -8,6 +8,7 @@
             //SONO GAY
             //ANCHE IO
             // CIAO
+            int a = 10;
         }
     }
 }
